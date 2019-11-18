@@ -1,3 +1,5 @@
+# Задание по программированию: Практика по requests
+
 import requests
 import datetime
 
