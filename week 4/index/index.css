@@ -1,0 +1,114 @@
+.navigation {
+    margin-bottom: 20px;
+}
+
+.topic-list__item {
+    margin-bottom: 20px;
+}
+
+.category {
+    padding: 10px;
+    color: #6f42c1;
+}
+
+.simple_text {
+    margin-top: 15px;
+    font-family: Verdana, Arial, sans-serif;
+    margin-left: 10px;
+    font-size: 17px;
+}
+
+.answer_text {
+    margin-top: 15px;
+    font-family: Verdana, Arial, sans-serif;
+    margin-left: -5px;
+    font-size: 17px;
+}
+
+.members {
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    padding-top: 30px;
+    margin-left: 10px;
+}
+
+.best_members {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-bottom: 3px;
+    padding-top: 5px;
+
+}
+
+.tags {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 15px;
+    font-weight: lighter;
+    color: #6c757d;
+}
+
+.avatar {
+    margin-top: 40px;
+    margin-left: 70px;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.min-avatar {
+    margin-left: 20px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.test {
+    width: 35px;
+    margin-top: 30px;
+    margin-left: 125px;
+}
+
+.new {
+    border: 1px solid red;
+    padding: 10px;
+}
+
+hr {
+    border: none; /* Убираем границу */
+    background-color: black; /* Цвет линии */
+    color: black; /* Цвет линии для IE6-7 */
+    height: 1px; /* Толщина линии */
+}
+
+.answer_rate {
+    width: 35px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+
+.your_answer {
+    margin-top: -10px;
+    margin-left: -10px;
+    width: 796px; /* Ширина блока */
+    height: 150px;
+    padding: 10px; /* Поля */
+    border: 2px solid #000;
+}
+.box1 {
+    margin-top: 20px;
+    margin-left: 200px;
+    width: 800px; /* Ширина блока */
+    padding: 10px; /* Поля */
+    border: 2px solid #000; /* Параметры рамки */
+   }
+
+.box2 {
+    margin-top: 20px;
+    margin-left: 200px;
+    width: 800px; /* Ширина блока */
+    padding: 10px; /* Поля */
+
+   }
